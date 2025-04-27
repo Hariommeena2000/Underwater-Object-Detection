@@ -1,0 +1,10 @@
+path: D:/underwater_OD/DUO/splitted  # root directory
+train: train/images
+val: val/images
+test: test/images
+
+names:
+  - Holothurian
+  - Echinus
+  - Scallop
+  - Starfish
